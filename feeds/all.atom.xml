@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kyle's Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-01-19T05:30:00-06:00</updated><entry><title>Olympic Exploration</title><link href="/Olympic_EDA.ipynb.html" rel="alternate"></link><published>2020-01-19T05:30:00-06:00</published><updated>2020-01-19T05:30:00-06:00</updated><author><name>Kyle Manning</name></author><id>tag:None,2020-01-19:/Olympic_EDA.ipynb.html</id><summary type="html">&lt;p&gt;Exploring over 100 years of Olympic athlete data.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kyle's Blog</title><link href="http://manningkyle304.github.io/" rel="alternate"></link><link href="http://manningkyle304.github.io/feeds/all.atom.xml" rel="self"></link><id>http://manningkyle304.github.io/</id><updated>2020-01-19T05:30:00-06:00</updated><entry><title>Olympic Exploration</title><link href="http://manningkyle304.github.io/Olympic_EDA.ipynb.html" rel="alternate"></link><published>2020-01-19T05:30:00-06:00</published><updated>2020-01-19T05:30:00-06:00</updated><author><name>Kyle Manning</name></author><id>tag:manningkyle304.github.io,2020-01-19:/Olympic_EDA.ipynb.html</id><summary type="html">&lt;p&gt;Exploring over 100 years of Olympic athlete data.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -4780,7 +4780,7 @@ Name: Weight, dtype: float64&lt;/pre&gt;
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="projects"></category><category term="Data Exploration"></category></entry><entry><title>First-Post</title><link href="/first-post.ipynb.html" rel="alternate"></link><published>2013-03-27T00:00:00-05:00</published><updated>2013-03-27T00:00:00-05:00</updated><author><name>Kyle-Manning</name></author><id>tag:None,2013-03-27:/first-post.ipynb.html</id><summary type="html">&lt;p&gt;My first post, read it to find out.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="projects"></category><category term="Data Exploration"></category></entry><entry><title>First-Post</title><link href="http://manningkyle304.github.io/first-post.ipynb.html" rel="alternate"></link><published>2013-03-27T00:00:00-05:00</published><updated>2013-03-27T00:00:00-05:00</updated><author><name>Kyle-Manning</name></author><id>tag:manningkyle304.github.io,2013-03-27:/first-post.ipynb.html</id><summary type="html">&lt;p&gt;My first post, read it to find out.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
